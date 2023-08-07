@@ -12,6 +12,7 @@ public class User {
     private String name;
     @Column(name = "email", length = 30)
     private String email;
+//sout
 
     public User(){
 
